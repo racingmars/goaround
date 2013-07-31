@@ -1,4 +1,5 @@
-* goaround
+goaround
+========
 
 A time-series round-robin database backend for Go.
 
